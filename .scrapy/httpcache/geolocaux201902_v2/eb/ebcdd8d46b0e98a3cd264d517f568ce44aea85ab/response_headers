@@ -1,0 +1,15 @@
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Expires: Wed, 20 Feb 2019 22:47:49 GMT
+Content-Encoding: gzip
+Set-Cookie: __cfduid=d13fc6949462581c3c3b0044006f5822d1550659669; expires=Thu, 20-Feb-20 10:47:49 GMT; path=/; domain=.geolocaux.com; HttpOnly
+Cf-Cache-Status: REVALIDATED
+Strict-Transport-Security: max-age=15768000
+Vary: Accept-Encoding
+Server: cloudflare
+Last-Modified: Wed, 20 Feb 2019 09:26:23 GMT
+Etag: "4d497058fec8d41:0"
+Cache-Control: public, max-age=43200
+Date: Wed, 20 Feb 2019 10:47:49 GMT
+Cf-Ray: 4ac065b7cb349e39-ATH
+Content-Type: text/plain
+Accept-Ranges: bytes
